@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    background-image: url("reference.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 2400px;
+
+    font-family:'Arial Black';
+    font-size:1.25rem;
+    line-height: 1.5;
+
+}
+header,footer {
+    display: flex;
+}
